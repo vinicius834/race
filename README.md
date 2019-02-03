@@ -23,7 +23,6 @@ pyhton app.py
 ```
 
 ```bash
-
 #LOG EXAMPLE
 
 Hora                               Piloto             Nº Volta   Tempo Volta       Velocidade média da volta
@@ -53,7 +52,8 @@ Hora                               Piloto             Nº Volta   Tempo Volta   
 
 
 
-#result   
+#RESULT
+   
 Final Position       Pilot Cod            Pilot Name       Completed Laps     Total Race Time    Best Lap           Average Speed
 1°                   038                  F.MASS           4                  0:04:11.578000     00:01:02.769000    44.246             +(0:00:00)
 2°                   002                  K.RAIKKONEN      4                  0:04:15.153000     00:01:03.076000    43.627             +(0:00:03.575000)
