@@ -1,6 +1,7 @@
-from process_data import get_pilots, race_result
-from import_data import *
+
+
+from src import import_data, process_data, models
 
 if __name__ == '__main__':
-    race = read_race_log()
-    race_result(race, get_pilots(race))
+    race = import_data.read_race_log()
+    process_data.race_result(race, process_data.get_pilots(race))

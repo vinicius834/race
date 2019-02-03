@@ -1,4 +1,4 @@
-from models import *
+from .models import *
 
 def read_race_log():
     race_data = {}

@@ -1,4 +1,4 @@
-from models import *
+from .models import *
 from datetime import timedelta, datetime as dt
 from decimal import *
 
