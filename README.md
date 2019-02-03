@@ -10,7 +10,7 @@ Python 3
 
 ```python
 
-#log example
+#log example 
 
 Hora                               Piloto             Nº Volta   Tempo Volta       Velocidade média da volta
 23:49:08.277      038 – F.MASSA                           1		1:02.852                        44,275
