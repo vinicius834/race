@@ -6,7 +6,21 @@ Race is an app that read a race log and calculate race result.
 
 Python 3
 
-## Execute
+## Execution
+
+```python
+git clone https://github.com/vinicius834/race.git
+
+cd race
+
+virtualenv --python=python3 venv
+
+source venv/bin/activate
+
+source venv/bin/activate
+
+pyhton app.py
+```
 
 ```bash
 
@@ -38,9 +52,6 @@ Hora                               Piloto             Nº Volta   Tempo Volta   
 23:54:57.757      011 – S.VETTEL                          3		1:18.097                        35,633
 
 
-#EXECUTION
-
-pyhton app.py
 
 #result   
 Final Position       Pilot Cod            Pilot Name       Completed Laps     Total Race Time    Best Lap           Average Speed
