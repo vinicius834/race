@@ -8,9 +8,9 @@ Python 3
 
 ## Execute
 
-```txt
+```bash
 
-#log example 
+#LOG EXAMPLE
 
 Hora                               Piloto             Nº Volta   Tempo Volta       Velocidade média da volta
 23:49:08.277      038 – F.MASSA                           1		1:02.852                        44,275
@@ -38,7 +38,7 @@ Hora                               Piloto             Nº Volta   Tempo Volta   
 23:54:57.757      011 – S.VETTEL                          3		1:18.097                        35,633
 
 
-#execution
+#EXECUTION
 
 pyhton app.py
 
