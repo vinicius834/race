@@ -17,8 +17,6 @@ virtualenv --python=python3 venv
 
 source venv/bin/activate
 
-source venv/bin/activate
-
 pyhton app.py
 ```
 
