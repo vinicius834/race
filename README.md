@@ -8,7 +8,7 @@ Python 3
 
 ## Execute
 
-```python
+```bash
 
 #log example 
 
